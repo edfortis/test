@@ -44,7 +44,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     }
 
 
-
+//changes
     private boolean checkDataBase(){
         SQLiteDatabase checDB = null;
         try{
